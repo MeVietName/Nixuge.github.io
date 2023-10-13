@@ -1,1 +1,2 @@
-Coucou
+Coucou,
+Au revoir.
